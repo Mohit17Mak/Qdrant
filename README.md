@@ -1,0 +1,1 @@
+This is the Qdrant-learning series course.
